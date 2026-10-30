@@ -1,0 +1,523 @@
+{
+ "country": "BR-AL",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-AL",
+   "title": "Constituição do Estado de Alagoas",
+   "url": "https://www.al.al.leg.br/leis/constituicao-estadual",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 338,
+     "source_url": "https://www.al.al.leg.br/leis/constituicao-estadual",
+     "sha256": "f5ff5cbbf71447f668910cb3e21886de8772c673ebf42606261c9d4a6ed8cdd3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-003",
+   "short": "LC 3/1991",
+   "title": "Lei Complementar nº 3, de 1991",
+   "url": "https://sapl.al.al.leg.br/norma/640",
+   "versions": [
+    {
+     "from": "1991-07-19",
+     "units": 7,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1991/640/640_texto_integral.pdf",
+     "sha256": "7e5fbe55765b2d54b33e0cddf103669c9a5c7683079b00ed52e4c71e6c47e5d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-019",
+   "short": "LC 19/2000",
+   "title": "Lei Complementar nº 19, de 2000",
+   "url": "https://sapl.al.al.leg.br/norma/644",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 8,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2000/644/644_texto_integral.pdf",
+     "sha256": "a75b8342d9eb8bddc8e7d64760afc443c8c6df3815fce66d519f5a005e140745"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-020",
+   "short": "LC 20/2002",
+   "title": "Lei Complementar nº 20, de 2002",
+   "url": "https://sapl.al.al.leg.br/norma/27",
+   "versions": [
+    {
+     "from": "2002-04-04",
+     "units": 18,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2002/27/27_texto_integral.pdf",
+     "sha256": "1ee749ad4846c835f23d259196234fc9939f458db07aed136a8bd1594896c21d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-028",
+   "short": "LC 28/2010",
+   "title": "Lei Complementar nº 28, de 2010",
+   "url": "https://sapl.al.al.leg.br/norma/13",
+   "versions": [
+    {
+     "from": "2010-09-10",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2010/13/13_texto_integral.pdf",
+     "sha256": "753cfbdafcdaa89e45c38cb6a2db50bbf1e686623a64ca59372bea859ab5e379"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-031",
+   "short": "LC 31/2011",
+   "title": "Lei Complementar nº 31, de 2011",
+   "url": "https://sapl.al.al.leg.br/norma/10",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 10,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2011/10/10_texto_integral.pdf",
+     "sha256": "00d1fb2a6464a2f5cdff37fce3ca7e7ff7d65f4a3be2efa5c9184d38921f1dca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-032",
+   "short": "LC 32/2012",
+   "title": "Lei Complementar nº 32, de 2012",
+   "url": "https://sapl.al.al.leg.br/norma/9",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 11,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2012/9/9_texto_integral.pdf",
+     "sha256": "ee8a9e15a2f15c5c298b9d4d7ce5837e70c01ffa2ec1e6accf079bbe50f9fbc2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-033",
+   "short": "LC 33/2012",
+   "title": "Lei Complementar nº 33, de 2012",
+   "url": "https://sapl.al.al.leg.br/norma/8",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 10,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2012/8/8_texto_integral.pdf",
+     "sha256": "c82396b55b654fa6ba57319d17e15f310eb2af9a078e6651f47e4ffdc325dd58"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-036",
+   "short": "LC 36/2012",
+   "title": "Lei Complementar nº 36, de 2012",
+   "url": "https://sapl.al.al.leg.br/norma/7",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 11,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2012/7/7_texto_integral.pdf",
+     "sha256": "c8c6e5b45b8177ba9e181d64f6b6ef37f6dc94e5ca1d64294261134d8f62eca5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-039",
+   "short": "LC 39/2013",
+   "title": "Lei Complementar nº 39, de 2013",
+   "url": "https://sapl.al.al.leg.br/norma/4",
+   "versions": [
+    {
+     "from": "2013-08-08",
+     "units": 11,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2013/4/4_texto_integral.pdf",
+     "sha256": "5d1d2d1229b43e0615152158d72811f6271e55ab8a288571bddcbd9101714cfb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-041",
+   "short": "LC 41/2014",
+   "title": "Lei Complementar nº 41, de 2014",
+   "url": "https://sapl.al.al.leg.br/norma/1311",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 5,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2014/1311/1311_texto_integral.pdf",
+     "sha256": "617a4fc2ac3a1e9c1fc4494740902d3590ce3a3a9fb746042c34f577e6fb7532"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-042",
+   "short": "LC 42/2015",
+   "title": "Lei Complementar nº 42, de 2015",
+   "url": "https://sapl.al.al.leg.br/norma/1155",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 11,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2015/1155/1155_texto_integral.pdf",
+     "sha256": "0ffcd90d5d58c0dfc7d7e9e6c5456d7cfea819bf68bdc9d225c4e71700d56968"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-043",
+   "short": "LC 43/2017",
+   "title": "Lei Complementar nº 43, de 2017",
+   "url": "https://sapl.al.al.leg.br/norma/1315",
+   "versions": [
+    {
+     "from": "2017-06-02",
+     "units": 8,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2017/1315/1315_texto_integral.pdf",
+     "sha256": "e97b73cffdff6dc832f31cceaccc16bdbe6c221e2192a8895f71ae7b6e6d24fa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-045",
+   "short": "LC 45/2017",
+   "title": "Lei Complementar nº 45, de 2017",
+   "url": "https://sapl.al.al.leg.br/norma/1338",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 37,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2017/1338/1338_texto_integral.pdf",
+     "sha256": "1e25da91bc149216b129e7c816968c6396686f2d4f4927f0fcae2c5b3dc077e2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-046",
+   "short": "LC 46/2017",
+   "title": "Lei Complementar nº 46, de 2017",
+   "url": "https://sapl.al.al.leg.br/norma/1599",
+   "versions": [
+    {
+     "from": "2017-11-30",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2017/1599/lei_complementar_no_46_de_29_de_novembro_de_2017_.pdf",
+     "sha256": "b47421459bad63749f3b6850b017ee216cc17e4f7d261406ecf98406c1d287d7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-047",
+   "short": "LC 47/2018",
+   "title": "Lei Complementar nº 47, de 2018",
+   "url": "https://sapl.al.al.leg.br/norma/1600",
+   "versions": [
+    {
+     "from": "2018-04-30",
+     "units": 21,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2018/1600/lei_complementar_no_47_de_27.04.2018.pdf",
+     "sha256": "d5744b9a2f5f592fe45419762a561012d1849129d46c81fe35cbfa0cdf322927"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-049",
+   "short": "LC 49/2019",
+   "title": "Lei Complementar nº 49, de 2019",
+   "url": "https://sapl.al.al.leg.br/norma/1614",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1614/lei_complementar_no_49_de_24_de_julho_de_2019.pdf",
+     "sha256": "454db60bddb91ba4e77c813175be6f1f6dacff69b2aca7be01fe27465588957a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-051",
+   "short": "LC 51/2019",
+   "title": "Lei Complementar nº 51, de 2019",
+   "url": "https://sapl.al.al.leg.br/norma/1793",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 3,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1793/lei_complementar_no_51_de_19_de_dezembro_de_2019_.pdf",
+     "sha256": "13dbb4f9f0b09b4267dd576987472424fb41c28e607d7b0ce5ec6ae5b9cb0d02"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-053",
+   "short": "LC 53/2022",
+   "title": "Lei Complementar nº 53, de 2022",
+   "url": "https://sapl.al.al.leg.br/norma/2279",
+   "versions": [
+    {
+     "from": "2021-05-03",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2279/lei_complementar_no_53_de_30_de_abril_de_2021.pdf",
+     "sha256": "78b0fa27679e019276feebc3de36c0356a97b5f711320ab30848058585541931"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-054",
+   "short": "LC 54/2021",
+   "title": "Lei Complementar nº 54, de 2021",
+   "url": "https://sapl.al.al.leg.br/norma/2280",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 8,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2021/2280/lei_complementar_no_54_de_12_de_julho_de_2021.pdf",
+     "sha256": "033fb6b96b149383d45cd1ff8e31d46b806b063457cc92904dc9408d24f6b677"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-055",
+   "short": "LC 55/2022",
+   "title": "Lei Complementar nº 55, de 2022",
+   "url": "https://sapl.al.al.leg.br/norma/2281",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 3,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2281/lei_complementar_no_55_de_17_de_marco_de_2022.pdf",
+     "sha256": "b225e7d9b7bab9acfbce76c8c25931073ad232b9013b8aa46d00f35812363420"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-056",
+   "short": "LC 56/2022",
+   "title": "Lei Complementar nº 56, de 2022",
+   "url": "https://sapl.al.al.leg.br/norma/2296",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 7,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2296/lei_complementar_no_56_de_9_de_junho_de_2022.pdf",
+     "sha256": "e6b86055c7e5c335b34663beda628731dbfc57e25b9fccff72a7d6c71dab836f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-057",
+   "short": "LC 57/2022",
+   "title": "Lei Complementar nº 57, de 2022",
+   "url": "https://sapl.al.al.leg.br/norma/2372",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 7,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2372/lei_complementar_no_57_de_24_de_outubro_de_2022.pdf",
+     "sha256": "8b1e4d0725a9656c3fbe0f139d24cfb307cfb76dd40922b2e3600e15baf67ff4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-058",
+   "short": "LC 58/2022",
+   "title": "Lei Complementar nº 58, de 2022",
+   "url": "https://sapl.al.al.leg.br/norma/2373",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 3,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2373/lei_complementar_no_58_de_8_de_novembro_de_2022.pdf",
+     "sha256": "ad71f83b383e048a57170377fae5d7b3d9170edd0dc8d7ef1cf350b94503ca65"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-059",
+   "short": "LC 59/2023",
+   "title": "Lei Complementar nº 59, de 2023",
+   "url": "https://sapl.al.al.leg.br/norma/2549",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 8,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2023/2549/lei_complementar_no_59_de_5_de_julho_de_2023.pdf",
+     "sha256": "c24f4bebfdec6dae1f5adea045111738ecdb5a961dc445fdf4ff4c976421be51"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-060",
+   "short": "LC 60/2024",
+   "title": "Lei Complementar nº 60, de 2024",
+   "url": "https://sapl.al.al.leg.br/norma/2896",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/2896/lei_complementar_no_60_de_4_de_janeiro_de_2024.pdf",
+     "sha256": "1718a12a87731f946879579f0e2ae7c29a142f42821cf608dc8ea8b4d6b4ff53"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-061",
+   "short": "LC 61/2024",
+   "title": "Lei Complementar nº 61, de 2024",
+   "url": "https://sapl.al.al.leg.br/norma/3000",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3000/lei_complementar_no_61_de_10_de_junho_de_2024.pdf",
+     "sha256": "9f215f1ecebfcbcd9d7d4dce61e017622fb584670e10ad112ba6227ce03f2b13"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-062",
+   "short": "LC 62/2024",
+   "title": "Lei Complementar nº 62, de 2024",
+   "url": "https://sapl.al.al.leg.br/norma/3055",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 7,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3055/lei_complementar_no_62_de_18_de_junho_de_2024.pdf",
+     "sha256": "e1208127e41978938e46e80ff0890980c15924d4baa027501e04f9fe6339f015"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-063",
+   "short": "LC 63/2024",
+   "title": "Lei Complementar nº 63, de 2024",
+   "url": "https://sapl.al.al.leg.br/norma/3056",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 8,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3056/lei_complementar_no_63_de_9_de_julho_de_2024.pdf",
+     "sha256": "19079c2dd7164b5cf2ebb8728a41603c573b5ea9f0c8fa617691f7dad506787e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-065",
+   "short": "LC 65/2024",
+   "title": "Lei Complementar nº 65, de 2024",
+   "url": "https://sapl.al.al.leg.br/norma/3244",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 4,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3244/lei_complementar_no_65_de_23_de_dezembro_de_2024_1.pdf",
+     "sha256": "9b98a9d40b6bf04bd9f8dcfe720c766021bfafea48a5a78893bbb21567d925a3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-066",
+   "short": "LC 66/2025",
+   "title": "Lei Complementar nº 66, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3361",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 5,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3361/lei_complementar_no_66_de_6_de_maio_de_2025_1.pdf",
+     "sha256": "0efb802239d1148182b2d71f0f15c788d272062439b85138d12e9d4063d023d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-067",
+   "short": "LC 67/2025",
+   "title": "Lei Complementar nº 67, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3511",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 4,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3511/lei_complementar_no_67_de_21_de_agosto_de_2025_.pdf",
+     "sha256": "5ab36c06c4899a0c5af88d53bab88deb6fb48a60f42e20a09f842683bbaba3fb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-068",
+   "short": "LC 68/2025",
+   "title": "Lei Complementar nº 68, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3646",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 10,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3646/lei_complementar_no_68_de_4_de_dezembro_de_2025_1_1.pdf",
+     "sha256": "c9fa7c5558f6861f3d1705da0a3d9b6d8b2d3fda656f0264f096741ae2b09370"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-069",
+   "short": "LC 69/2025",
+   "title": "Lei Complementar nº 69, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3669",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 9,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3669/lei_complementar_no_69_de_12_de_dezembro_de_2025_1.pdf",
+     "sha256": "5acd8aa45d5f1fe61fd95a7a0f7368e3e35dc48231088daea91bc61c5df477ba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-070",
+   "short": "LC 70/2025",
+   "title": "Lei Complementar nº 70, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3670",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 5,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3670/lei_complementar_no_70_de_22_de_dezembro_de_2025.pdf",
+     "sha256": "747143c1222eb575f7d2d9b3272bfcae79fd13a84dfa672b01f98d9d10e5434f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-071",
+   "short": "LC 71/2025",
+   "title": "Lei Complementar nº 71, de 2025",
+   "url": "https://sapl.al.al.leg.br/norma/3671",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 6,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2025/3671/lei_complementar_no_71_de_22_de_dezembro_de_2025.pdf",
+     "sha256": "c5d1c9c3c4e0e2f6fd234db9e81277b91ae756eabce728b1b05e2568513f208a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-072",
+   "short": "LC 72/2026",
+   "title": "Lei Complementar nº 72, de 2026",
+   "url": "https://sapl.al.al.leg.br/norma/3883",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 26,
+     "source_url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/3883/lei_complementar_no_72_de_21_de_maio_de_2026.pdf",
+     "sha256": "d52e59c8905ccd99a5000bfc33c3040c5842db5f7bec310f83eb0ffa0a04a0c7"
+    }
+   ]
+  }
+ ]
+}

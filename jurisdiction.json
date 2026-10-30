@@ -1,0 +1,8 @@
+{
+  "path": "br-al",
+  "code": "BR-AL",
+  "name": "Alagoas",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-alagoas-law",
+  "build": "built: Constituição do Estado de Alagoas and 36 Leis Complementares, from the Assembleia Legislativa (site and SAPL)"
+}
