@@ -44,7 +44,7 @@ def lines_of(s):
     return out
 
 
-ART = re.compile(r'^(Artigo|Art\.?|Ar\.(?= ?\d))\s*(\d+)\s*(?:[º°ºo]|\.)?(?:\s*-\s*([A-Z])(?=\s*[-.–]|\s*$)|-?([A-Z])(?=\s*[-.–]))?')
+ART = re.compile(r'^(Artigo|Art\.?)\s*(\d+)\s*(?:[º°ºo]|\.)?(?:\s*-\s*([A-Z])(?=\s*[-.–]|\s*$)|-?([A-Z])(?=\s*[-.–]))?')
 HEAD = re.compile(r'^(?:(?:T[ÍI]TULO|CAP[ÍI]TULO|SE[ÇC][ÃA]O|SUBSE[ÇC][ÃA]O|LIVRO|PARTE)\s+(?:[IVXLCDM]+|\d+|[ÚU]NIC[OA])\b'
                   r'|(?:T[íi]tulo|Cap[íi]tulo|Se[çc][ãa]o|Subse[çc][ãa]o|Livro)\s+(?:[IVXLCDM]+|\d+|[ÚU]nic[oa])\b'
                   r'|ATO DAS DISPOSI|(?:DAS )?DISPOSI[ÇC][ÕO]ES (?:GERAIS|FINAIS|TRANSIT|PRELIMINARES|CONSTITUCIONAIS))')

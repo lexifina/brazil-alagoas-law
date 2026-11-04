@@ -112,7 +112,6 @@ CE-AL · 1 versions, from 2024-10-15 (latest in force: 2024-10-15) · <https://w
 | Art. 60 | [art-0060.md](art-0060.md) | 0 |  |
 | Art. 61 | [art-0061.md](art-0061.md) | 0 |  |
 | Art. 62 | [art-0062.md](art-0062.md) | 0 |  |
-| Ar. 63 | [art-0063.md](art-0063.md) | 0 |  |
 | Art. 64 | [art-0064.md](art-0064.md) | 0 |  |
 | Art. 65 | [art-0065.md](art-0065.md) | 0 |  |
 | Art. 66 | [art-0066.md](art-0066.md) | 0 |  |
