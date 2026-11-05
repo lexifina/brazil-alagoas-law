@@ -1,12 +1,12 @@
 # How this repository was made (Alagoas)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Assembleia Legislativa do Estado de Alagoas: the compiled Constituição (PDF, SAPL) | <https://www.al.al.leg.br> | 2026-11-04 | Texts: Assembleia Legislativa do Estado de Alagoas (www.al.al.leg.br, SAPL sapl.al.al.leg.br). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Assembleia Legislativa do Estado de Alagoas: the compiled Constituição (PDF, SAPL) | <https://www.al.al.leg.br> | 2026-11-05 | Texts: Assembleia Legislativa do Estado de Alagoas (www.al.al.leg.br, SAPL sapl.al.al.leg.br). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de Alagoas: SAPL records of the Leis Complementares and their PDFs | <https://www.al.al.leg.br> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de Alagoas (www.al.al.leg.br, SAPL sapl.al.al.leg.br). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de Alagoas: SAPL records of the Leis Complementares and their PDFs | <https://www.al.al.leg.br> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de Alagoas (www.al.al.leg.br, SAPL sapl.al.al.leg.br). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Assembleia Legislativa do Estado de Alagoas: SAPL records of the Leis Complementares and their PDFs | <https://www.al.al.leg.br> | 2026-10-30 | Texts: Assembleia Legislativa do Estado de Alagoas (www.al.al.leg.br, SAPL sapl.al.al.leg.br). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
@@ -66,7 +66,7 @@ The build made 38 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 37 laws in the record.
 - 73 tags.
@@ -81,7 +81,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0faf6f740f535910ccd8a36af1aadd320f9661c631fb6efa06c2ba0b96afa855` (602700 bytes).
+- Corpus: sha256 `ef4f7877c13de65d77b08a5c0f78a17d95bd5ce8f05a1261b999b878b4649a0b` (602700 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
